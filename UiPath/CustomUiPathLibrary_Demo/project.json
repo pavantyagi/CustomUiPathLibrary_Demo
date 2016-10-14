@@ -1,0 +1,12 @@
+{
+  "description": "Implementation of the custom library demo.",
+  "version": "2016.1.6101.26435",
+  "main": "Main.xaml",
+  "id": "CustomUiPathLibrary_Demo",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
